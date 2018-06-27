@@ -1,4 +1,5 @@
 <script type="application/javascript">
+/* */
 /** After windod Load */
 $(window).bind("load", function() {
   window.setTimeout(function() {
